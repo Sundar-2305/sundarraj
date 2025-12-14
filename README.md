@@ -198,6 +198,6 @@
 ###  Fun Fact
 *"In the vast universe of code, every problem is just a star waiting to be discovered!"*
 
-**â­ From [Sundarraj](https://github.com/Sundar-2305)**
+**From [Sundarraj](https://github.com/Sundar-2305)**
 
 </div>
